@@ -1,0 +1,10 @@
+{
+    "profiles": {
+        "default": {
+            "url": 1,
+            "key_start": "f9",
+            "key_exit": "f10",
+            "delay": 0
+        }
+    }
+}
