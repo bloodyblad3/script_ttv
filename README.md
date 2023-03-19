@@ -28,7 +28,7 @@ python 3.10.5 and bigger
         
     after use this command the program may ask u to:
     
-    1. Enter you twith url or smth else
+    1. Enter you twitch url or smth else
     2. The button to start spamming (You must hold this key for work the program)
     3. The button to exit the program
     4. Delay to send messages
