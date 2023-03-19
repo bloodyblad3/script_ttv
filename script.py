@@ -53,7 +53,7 @@ def main():
                 print("Профиль с таким именем уже существует!")
         if choice.startswith("use"):
             profile_name = parse_msg(choice)
-            with open("settings.json", "r") as file:
+            with open("./settings/settings.json", "r") as file:
                 profiles = json.load(file)
             if profile_name not in profiles["profiles"]:
                 print("Такого профиля не существует!")
